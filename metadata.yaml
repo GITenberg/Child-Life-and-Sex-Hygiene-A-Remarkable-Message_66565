@@ -1,5 +1,8 @@
 _repo: Child-Life-and-Sex-Hygiene-A-Remarkable-Message_66565
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66565-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Otterbein Oscar
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '53870'
     url: http://www.gutenberg.org/2009/agents/53870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66565#Child-Life-and-Sex-Hygiene-A-Remarkable-Message
 gutenberg_issued: '2021-10-19'
 identifiers:
   gutenberg: '66565'
